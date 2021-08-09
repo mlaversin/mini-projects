@@ -2,6 +2,8 @@
 
 Mini-projects in order to practice HTML, CSS and Vanilla JS.
 
-
-|  #  | Project                                                                                                                     | Live Demo                                                                         |
-| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|  #  | Project                                                                                                   | Live Demo                                                                   |
+| :-: | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/mlaversin/mini-projects/tree/main/expanding-cards)                   | [Live Demo](https://mlaversin.github.io/mini-projects/expanding-cards/)     |
+| 02  | [Progress Steps](https://github.com/mlaversin/mini-projects/tree/main/progress-steps)                     | [Live Demo](https://mlaversin.github.io/mini-projects/progress-steps/)      |
+| 03  | [Rotating Navigation Animation](https://github.com/mlaversin/mini-projects/tree/main/rotating-navigation) | [Live Demo](https://mlaversin.github.io/mini-projects/rotating-navigation/) |
