@@ -11,3 +11,4 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 04  | [Blurring animation](https://github.com/mlaversin/mini-projects/tree/main/blurry-loading)                 | [Live Demo](https://mlaversin.github.io/mini-projects/blurry-loading/)      |
 | 05  | [Scroll animation](https://github.com/mlaversin/mini-projects/tree/main/scroll-animation)                 | [Live Demo](https://mlaversin.github.io/mini-projects/scroll-animation/)    |
 | 06  | [Split Landing Page](https://github.com/mlaversin/mini-projects/tree/main/split-landing-page)             | [Live Demo](https://mlaversin.github.io/mini-projects/split-landing-page/)  |
+| 06  | [Form Wave Animation](https://github.com/mlaversin/mini-projects/tree/main/form-wave-animation)           | [Live Demo](https://mlaversin.github.io/mini-projects/form-wave-animation/) |
