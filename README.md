@@ -13,3 +13,4 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 07  | [Split Landing Page](https://github.com/mlaversin/mini-projects/tree/main/split-landing-page)             | [Live Demo](https://mlaversin.github.io/mini-projects/split-landing-page/)  |
 | 08  | [Form Wave Animation](https://github.com/mlaversin/mini-projects/tree/main/form-wave-animation)           | [Live Demo](https://mlaversin.github.io/mini-projects/form-wave-animation/) |
 | 09  | [Countdown Timer](https://github.com/mlaversin/mini-projects/tree/main/countdown-timer)                   | [Live Demo](https://mlaversin.github.io/mini-projects/countdown-timer/)     |
+| 09  | [FAQ collapse](https://github.com/mlaversin/mini-projects/tree/main/faq-boxes)                            | [Live Demo](https://mlaversin.github.io/mini-projects/faq-boxes/)           |
