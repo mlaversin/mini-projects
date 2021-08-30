@@ -15,3 +15,5 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 09  | [Countdown Timer](https://github.com/mlaversin/mini-projects/tree/main/countdown-timer)                   | [Live Demo](https://mlaversin.github.io/mini-projects/countdown-timer/)      |
 | 10  | [FAQ Collapse](https://github.com/mlaversin/mini-projects/tree/main/faq-boxes)                            | [Live Demo](https://mlaversin.github.io/mini-projects/faq-boxes/)            |
 | 11  | [Random Choice Picker](https://github.com/mlaversin/mini-projects/tree/main/random-choice-picker)         | [Live Demo](https://mlaversin.github.io/mini-projects/random-choice-picker/) |
+| 12  | [Random Choice Picker](https://github.com/mlaversin/mini-projects/tree/main/drink-water)                  | [Live Demo](https://mlaversin.github.io/mini-projects/drink-water/)          |
+| 13  | [Movies App](https://github.com/mlaversin/mini-projects/tree/main/movie-app)                              | [Live Demo](https://mlaversin.github.io/mini-projects/movie-app/)            |
