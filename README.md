@@ -17,3 +17,4 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 11  | [Random Choice Picker](https://github.com/mlaversin/mini-projects/tree/main/random-choice-picker)         | [Live Demo](https://mlaversin.github.io/mini-projects/random-choice-picker/) |
 | 12  | [Drink Water](https://github.com/mlaversin/mini-projects/tree/main/drink-water)                           | [Live Demo](https://mlaversin.github.io/mini-projects/drink-water/)          |
 | 13  | [Movies App](https://github.com/mlaversin/mini-projects/tree/main/movie-app)                              | [Live Demo](https://mlaversin.github.io/mini-projects/movie-app/)            |
+| 14  | [Backgroung Slider](https://github.com/mlaversin/mini-projects/tree/main/background-slider)               | [Live Demo](https://mlaversin.github.io/mini-projects/background-slider/)    |
