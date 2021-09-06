@@ -49,6 +49,10 @@ h2 {
   max-width: calc(100% - 40px);
 }
 
+#result::-webkit-scrollbar {
+  width: 1rem;
+}
+
 .result-container .btn {
   position: absolute;
   top: 5px;
@@ -61,6 +65,7 @@ h2 {
 .btn {
   border: none;
   background-color: #3b3b98;
+  color: #fff;
   font-size: 16px;
   padding: 8px 12px;
   cursor: pointer;
