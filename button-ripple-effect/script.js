@@ -1,7 +1,7 @@
 const buttons = document.querySelectorAll('.ripple');
 
 buttons.forEach((button) => {
-  button.addEventListener('click', function(e) {
+  button.addEventListener('click', function (e) {
     const x = e.clientX;
     const y = e.clientY;
 
@@ -17,5 +17,7 @@ buttons.forEach((button) => {
     circle.style.left = xInside + 'px';
 
     this.appendChild(circle);
+
+    setTimeout(() => circle.remove(), 500);
   });
 });
