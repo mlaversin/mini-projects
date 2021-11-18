@@ -20,3 +20,4 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 14  | [Background Slider](https://github.com/mlaversin/mini-projects/tree/main/background-slider)               | [Live Demo](https://mlaversin.github.io/mini-projects/background-slider/)    |
 | 15  | [Password Generator](https://github.com/mlaversin/mini-projects/tree/main/password-generator)             | [Live Demo](https://mlaversin.github.io/mini-projects/password-generator/)   |
 | 16  | [Theme Clock](https://github.com/mlaversin/mini-projects/tree/main/theme-clock)                           | [Live Demo](https://mlaversin.github.io/mini-projects/theme-clock/)          |
+| 17  | [Button Ripple Effect](https://github.com/mlaversin/mini-projects/tree/main/button-ripple-effect)         | [Live Demo](https://mlaversin.github.io/mini-projects/button-ripple-effect/) |
