@@ -21,3 +21,4 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 15  | [Password Generator](https://github.com/mlaversin/mini-projects/tree/main/password-generator)             | [Live Demo](https://mlaversin.github.io/mini-projects/password-generator/)   |
 | 16  | [Theme Clock](https://github.com/mlaversin/mini-projects/tree/main/theme-clock)                           | [Live Demo](https://mlaversin.github.io/mini-projects/theme-clock/)          |
 | 17  | [Button Ripple Effect](https://github.com/mlaversin/mini-projects/tree/main/button-ripple-effect)         | [Live Demo](https://mlaversin.github.io/mini-projects/button-ripple-effect/) |
+| 18  | [Drag & Drop](https://github.com/mlaversin/mini-projects/tree/main/drag-n-drop)                           | [Live Demo](https://mlaversin.github.io/mini-projects/drag-n-drop/)          |
