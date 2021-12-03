@@ -23,3 +23,4 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 17  | [Button Ripple Effect](https://github.com/mlaversin/mini-projects/tree/main/button-ripple-effect)         | [Live Demo](https://mlaversin.github.io/mini-projects/button-ripple-effect/) |
 | 18  | [Drag & Drop](https://github.com/mlaversin/mini-projects/tree/main/drag-n-drop)                           | [Live Demo](https://mlaversin.github.io/mini-projects/drag-n-drop/)          |
 | 19  | [Sticky Navigation](https://github.com/mlaversin/mini-projects/tree/main/sticky-navigation)               | [Live Demo](https://mlaversin.github.io/mini-projects/sticky-navigation/)    |
+| 20  | [Drawing App](https://github.com/mlaversin/mini-projects/tree/main/drawing-app)                           | [Live Demo](https://mlaversin.github.io/mini-projects/drawing-app/)          |
