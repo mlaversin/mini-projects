@@ -24,4 +24,5 @@ Mini-projects in order to practice HTML, CSS and Vanilla JS.
 | 18  | [Drag & Drop](https://github.com/mlaversin/mini-projects/tree/main/drag-n-drop)                           | [Live Demo](https://mlaversin.github.io/mini-projects/drag-n-drop/)          |
 | 19  | [Sticky Navigation](https://github.com/mlaversin/mini-projects/tree/main/sticky-navigation)               | [Live Demo](https://mlaversin.github.io/mini-projects/sticky-navigation/)    |
 | 20  | [Drawing App](https://github.com/mlaversin/mini-projects/tree/main/drawing-app)                           | [Live Demo](https://mlaversin.github.io/mini-projects/drawing-app/)          |
-| 20  | [Sound Board](https://github.com/mlaversin/mini-projects/tree/main/sound-board)                           | [Live Demo](https://mlaversin.github.io/mini-projects/sound-board/)          |
+| 21  | [Sound Board](https://github.com/mlaversin/mini-projects/tree/main/sound-board)                           | [Live Demo](https://mlaversin.github.io/mini-projects/sound-board/)          |
+| 22  | [Kinetic Loader](https://github.com/mlaversin/mini-projects/tree/main/kinetic-loader)                     | [Live Demo](https://mlaversin.github.io/mini-projects/kinetic-loader/)       |
